@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.env
+
+# Testing
+.pytest_cache/
+
+# Project specific
+node_modules/
+dist/
+build/
+*.log
