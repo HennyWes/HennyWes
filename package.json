@@ -1,0 +1,8 @@
+{
+  "name": "outreach-ready",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ]
+}
